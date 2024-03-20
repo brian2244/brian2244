@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @brian2244
-- 👀 I’m interested in ...Ai 
+- 👀 I’m interested in ...Ai and machine learning
 - 🌱 I’m currently learning ...everything i can about Ai
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...0701046112
-- 😄 Pronouns: ...hime/he
+- 😄 Pronouns: ...him/he
 - ⚡ Fun fact: ...
 
 <!---
